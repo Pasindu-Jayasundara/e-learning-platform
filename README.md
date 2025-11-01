@@ -11,6 +11,12 @@ Overview
 	- Enrollment and simple progress tracking
 	- Database schema file (db/schema.sql)
 
+
+
+https://github.com/user-attachments/assets/8d93317d-ce64-4d8d-bc8f-f4895d68e5d6
+
+
+
 Requirements
 - PHP 7.4+ with PDO/MySQL
 - MySQL (or MariaDB)
