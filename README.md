@@ -1,4 +1,3 @@
-````markdown
 # E-Learning Platform — PHP + MySQL MVP
 
 This repository contains a starter scaffold for an e-learning platform built with PHP, MySQL, HTML, CSS and JavaScript.
@@ -52,4 +51,4 @@ Next steps
 - Implement detailed reporting, certificates, forums
 - Add tests and CI
 
-````
+
