@@ -1,0 +1,6 @@
+/.env
+/vendor/
+/node_modules/
+/.idea/
+.DS_Store
+scripts/env.local.ps1

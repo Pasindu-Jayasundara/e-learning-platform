@@ -1,0 +1,28 @@
+-----
+To: pasindubathiya28@gmail.com
+Subject: Payment receipt for Mobile App Development
+Time: 2025-11-01T02:02:31+00:00
+
+Text:
+Payment Receipt
+Course: 
+Amount: 99.99
+Receipt ID: 2
+
+
+HTML:
+<h2>Payment Receipt</h2><p>Thank you, Pasindu Jayasundara</p><p>Course: Mobile App Development</p><p>Amount: $99.99</p><p>Receipt ID: 2</p><p><a href="https://localhost:8000/receipt.php?id=2">Download Receipt</a></p>
+
+-----
+To: pasindujayasundara@gmail.com
+Subject: Your instructor application has been approved
+Time: 2025-11-01T06:45:16+00:00
+
+Text:
+Hi Pasindu Jayasundara 2
+Your instructor application has been approved. You can now create and manage courses.
+— E-Learning Team
+
+HTML:
+<p>Hi Pasindu Jayasundara 2,</p><p>Your instructor application has been approved. You can now create and manage courses.</p><p>— E-Learning Team</p>
+

@@ -1,0 +1,9 @@
+{
+  "name": "e-learning/platform",
+  "description": "E-Learning Platform - procedural PHP scaffold",
+  "require": {
+    "stripe/stripe-php": "^9.0",
+    "dompdf/dompdf": "^2.0",
+    "phpmailer/phpmailer": "^6.6"
+  }
+}
