@@ -25,7 +25,7 @@ return [
         'host' => 'smtp.gmail.com',
         'port' => 587,
         'username' => 'pasindubathiya28@gmail.com',
-        'password' => 'jwbc yimz iguy jrpi', // Gmail App Password
+        'password' => '', // Gmail App Password
         'encryption' => 'tls'
     ],
     // Path where file-based notifications are stored if SMTP/mail() unavailable
